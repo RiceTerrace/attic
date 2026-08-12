@@ -1,0 +1,9 @@
+{
+  "id": "fast-note-sync",
+  "name": "Fast Note Sync Rice",
+  "version": "2.4.0-rice.2",
+  "minAppVersion": "1.8.7",
+  "description": "Rice private distribution of Fast Note Sync, based on official 2.4.0 with an audited protocol compatibility fix.",
+  "author": "HaierKeys / RiceTerrace",
+  "isDesktopOnly": false
+}
